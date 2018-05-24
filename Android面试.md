@@ -8,6 +8,7 @@
 
 	- [Android消息机制，你真的了解Handler吗？](http://www.10tiao.com/html/227/201711/2650241824/1.html)
 	- [你真的懂吗？（Android内存泄露之Handler）](https://blog.csdn.net/vv_bug/article/details/52765990)
+	- [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](https://www.zhihu.com/question/34652589/answer/90344494?from=profile_answer_card)
 - Animation
 	- ["Android中的动画"-Android面试必问"精华技能点"汇总](https://blog.csdn.net/nzfxx/article/details/51919128)
 
