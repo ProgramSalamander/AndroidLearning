@@ -4,7 +4,7 @@
 	- [Android系统开篇](gityuan.com/android/)
 
 - Handler
-	- [Android异步消息处理机制完全解析，带你从源码的角度彻底理解]	(https://blog.csdn.net/sinyu890807/article/details/9991569)
+	- [Android异步消息处理机制完全解析，带你从源码的角度彻底理解](https://blog.csdn.net/sinyu890807/article/details/9991569)
 
 	- [Android消息机制，你真的了解Handler吗？](www.10tiao.com/html/227/201711/2650241824/1.html)
 	- [你真的懂吗？（Android内存泄露之Handler）](https://blog.csdn.net/vv_bug/article/details/52765990)
